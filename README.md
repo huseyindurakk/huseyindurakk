@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huseyindurakk
 - 🖱️ I’m interested in game development as a junior.
-- 💻 I’m currently learning c# software language and flowchart.
+- 💻 I’m currently learning c# software language & flowchart.
 - 🎮 I’m looking to collaborate on game design
 - 📫 How to reach me huseyin.drk2@gmail.com
 
